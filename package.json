@@ -1,0 +1,8 @@
+{
+  "name": "smart-validation-tool",
+  "version": "1.0.0",
+  "description": "Validation tool with Netlify Blobs",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
