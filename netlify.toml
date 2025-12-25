@@ -1,0 +1,7 @@
+[build]
+  # This directory contains the deploy-ready HTML/JS/CSS files.
+  # Since your index.html is in the root, we use "."
+  publish = "."
+
+  # This tells Netlify where your backend functions live
+  functions = "netlify/functions"
